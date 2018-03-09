@@ -10,7 +10,7 @@ Visit the site at https://aed.rodekruis.nl/
 
 Copy the authorization header from one of the get requests that goes to https://api-rcr-aed.appdisco.afrogleap.com
 
-Paste the header in aed.sh as the value for the `KEY` variable (See current value as example)
+Paste the header in `aed.sh` as the value for the `KEY` variable (See current value as example)
 
 Run `aed.sh`
 
