@@ -17,3 +17,5 @@ Run `aed.sh`
 ## Result
 
 It produces a [geojson](http://geojson.org/) file, a [shapefile](https://en.wikipedia.org/wiki/Shapefile) and a [spatialite](https://en.wikipedia.org/wiki/SpatiaLite) database in the `./geodata` directory.
+
+![AEDMAP](global.png)
